@@ -35,7 +35,7 @@ The `Card` widget is a Material Design surface used to group related content. It
 
 ## Screenshot
 
-![App Screenshot](Card-widget.png)
+![App Screenshot](Card%20widget.png)
 
 ## Notes
 
